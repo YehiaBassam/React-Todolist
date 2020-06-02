@@ -1,0 +1,20 @@
+
+input{
+    padding: 10px;
+    background-color: #c8c7c7;
+    border: .3px solid #a3a3a3 ;
+    height: 42px;
+}
+
+form{
+    background-color: #ebebeb;
+}
+
+.add{
+    background-color: rgb(52, 71, 122);
+    color: #f1160e;
+    font-size: 15px;
+    text-shadow: 1px 1px #14144d;
+    cursor: pointer;
+}
+
